@@ -29,6 +29,10 @@ pyinstaller --onefile -w main.py
 pip install matplotlib
 ```
 
+# Docker
+Ссылка на репозиторий Docker Hub: [https://hub.docker.com/r/maryiv/lab4_raster_algorithms](https://hub.docker.com/r/maryiv/lab4_raster_algorithms)  
+Для запуска контейнера используется [docker-compose.yml](https://github.com/MaryIv76/kg2023-labrabota4-RasterAlgorithms/blob/main/docker-compose.yml)
+
 # Описание
 Данное приложение является графическим приложением, написанным на Python.
 
